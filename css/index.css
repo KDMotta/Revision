@@ -1,0 +1,40 @@
+
+.banner_index{
+    width: 100%;
+    min-height: 65rem;
+    background-image: url(../img/imgBanner.jpg);
+    background-size:cover;
+}
+
+.leyenda{
+    padding-top: 18rem;
+    text-align: center;
+    font-size: var(--parrafo-3);
+    color: var(--color6);
+}
+
+.btn_banner{
+    display: block;
+    width: 12rem;
+    margin: auto;
+    font-size: var(--titulo-h4);
+    text-align: center;
+    color: var(--color6);
+    text-decoration: none;
+    padding: 1rem;
+    border-radius: 5px;
+    margin-top: 1.5rem;
+    background-image: radial-gradient(circle at 48.8% 45.53%, #37ffff 0, #38eff7 16.67%, #3ddae7 33.33%, #42c4d4 50%, #46aec0 66.67%, #489aac 83.33%, #49899a 100%);
+    transition: 0.3s;
+    border-radius: 20px;
+}
+
+.btn_banner:hover{
+    width: 150px;
+    transition: 0.3s;
+    background-image: radial-gradient(circle at 51.65% 40.64%, #f2e88e 0, #e3d169 25%, #d4b942 50%, #c5a10d 75%, #b88a00 100%);
+}
+
+
+
+

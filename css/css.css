@@ -1,0 +1,167 @@
+section{
+    width: 100rem;
+    margin: 3rem auto;
+}
+
+/*----------SECCIÓN 1----------*/
+
+
+.tituloI{
+    color: var(--color1);
+    font-size: var(--titulo-h1);
+    text-align: center; 
+    margin: 3rem 0rem 0rem 0rem;
+}
+
+.texto1{
+    font-size: var(--parrafo-1);
+}
+
+
+/*----------SECCIÓN 2----------*/
+
+
+.celda{
+    background-color: var(--color3);
+    font-size: var(--titulo-h3);
+    color: var(--color6);
+    text-align: center;
+}
+
+td{
+    font-size: var(--parrafo-2);
+    text-align:center;
+}
+
+
+/*----------SUBTÍTULOS Y TEXTOS----------*/
+
+
+h3{
+    color: var(--color1);
+    font-size: var(--titulo-h3);
+    margin: 2rem 0rem 0rem 0rem;
+}
+
+.texto2{
+    font-size: var(--parrafo-2);
+    margin:0rem 0rem 1.5rem 0rem;
+}
+
+h2{
+    color: var(--color5);
+    font-size: var(--titulo-h2);
+    text-align: center;
+    margin: 5rem 0rem 2rem 0rem;
+} 
+
+h4{
+    color: var(--color2);
+    font-size: var(--parrafo-2);
+    margin: 2rem 2rem 1rem 2rem;
+}
+
+
+/*----------SECCIÓN 3----------*/
+
+
+.S3{
+    box-sizing: 3rem;
+}
+
+.sub_lista{
+    color: var(--color3);
+    font-size: var(--parrafo-2);  
+    margin: 2rem 2rem 1rem 2rem;
+}
+
+.no_hay{
+    font-size: var(--parrafo-1);
+    margin: 0rem 0rem 1.5rem 1.5rem;
+}
+
+.definicion{
+    font-size: 18px;
+    margin: 0rem 0rem 1rem 1.5rem;
+}
+
+li{
+    font-size: var(--parrafo-1);
+    margin:  0rem 0rem 0rem 3rem; 
+}
+
+a{
+    font-size: var(--parrafo-1);
+    color: var(--color4);
+    margin: 0rem 0rem 0rem 35rem;
+}
+
+.nota{
+    font-size: var(--parrafo-2);
+    color: var(--color4);
+    margin:1.5rem 4.5rem;
+}
+
+
+/*----------SECCIÓN 4----------*/
+
+
+.S4{
+    box-sizing: 3rem;
+}
+
+.recurso1{
+    border: 1rem double var(--color4);
+    border-radius: 20px;
+    margin: 1.5rem 0rem 0rem 27.5rem;
+}
+
+
+/*----------SECCIÓN 5----------*/
+
+
+.S5{
+    box-sizing: 3rem;
+}
+
+.propiedades_tablas{
+    margin: auto;
+    border-collapse: collapse;
+}
+
+tr,td{
+    border: 0.2rem solid Black;
+}
+
+.celdas3{
+    background-color: var(--color3);
+    font-size: var(--titulo-h3);
+    color: var(--color6);
+    text-align: center;
+}
+
+.colores_lista{
+    margin: auto;
+    color: var(--color2);
+}
+
+
+/*----------SECCIÓN 6----------*/
+
+
+.S6{
+    box-sizing: 3rem;
+}
+
+.mdc{
+    color: var(--color2);
+    font-size: 2.8rem;
+    text-align: center;
+}
+
+.recurso2{
+    width: 50rem;
+    height: 35rem;
+    margin: 1.5rem 0rem 0rem 27.5rem;
+}
+

@@ -1,0 +1,247 @@
+section{
+    width: 100rem;
+    margin: 3rem auto;
+}
+
+/*-----Todas las SECCIONES-----*/
+
+
+.contenedor{
+    width: 100%;
+    margin:0 auto;
+    /*overflow: hidden;*/
+}
+
+
+
+
+/*----------SUBTÍTULOS Y TEXTOS----------*/
+
+
+h3{
+    color: var(--color1);
+    font-size: var(--titulo-h3);
+    margin: 3rem 0rem 0rem 0rem;
+}
+
+.texto2{
+    font-size: var(--titulo-h4);
+    margin:1rem 0rem 5rem 0rem;
+}
+
+h2{
+    color: var(--color5);
+    font-size: var(--titulo-h2);
+    text-align: center;
+    margin: 5rem 0rem 2rem 0rem;
+} 
+
+h4{
+    color: var(--color2);
+    font-size: var(--parrafo-2);  
+    margin: 2rem 2rem 1rem 2rem;
+}
+
+
+/*----------SECCIÓN 1----------*/
+
+
+.S1{
+    width: 90%;
+    padding: 1%;
+
+}
+.tituloI{
+    color: var(--color1);
+    font-size: var(--titulo-h1);
+    text-align: center; 
+    margin: 3rem 0rem 0rem 0rem;
+}
+
+.texto1{
+    font-size: var(--parrafo-1);
+    text-align: center;
+}
+
+.formu{
+    color: var(--color5);
+    text-align: center;
+    margin-top: 1.5rem;
+}
+
+form{
+    font-size: var(--parrafo-1);
+}
+/*----------SECCIÓN 2----------*/
+
+.S2{
+    width: 90%;
+}
+
+.celda{
+    background-color: var(--color3);
+    font-size: var(--titulo-h3);
+    color: var(--color6);
+    text-align: center;
+}
+
+td{
+    font-size: var(--parrafo-1);
+    text-align:center;
+}
+
+/*----------SECCIÓN 3----------*/
+
+
+.S3{
+    box-sizing: 3rem;
+    width: 90%;
+}
+
+.sub_lista{
+    color: var(--color3);
+    font-size: var(--parrafo-2); 
+    margin: 2rem 2rem 1rem 2rem;
+}
+
+.no_hay{
+    font-size: var(--parrafo-1);
+    margin:0rem 0rem 1.5rem 1.5rem;
+}
+
+.definicion{
+    font-size: var(--parrafo-1);
+    margin: 0rem 0rem 1rem 1.5rem;
+}
+
+.holaI{
+    font-size: 3rem;
+}
+
+.holaII{
+    color:black;
+    font-size: 2.7rem;
+}
+
+.holaIII{
+    color:black;
+    font-size: var(--titulo-h3);
+}
+
+.holaIV{
+    color:black;
+    font-size: 2.1rem;
+}
+
+.ejemplo_li{
+    font-size: var(--parrafo-1);
+    margin: 0rem 0rem 0rem 3rem
+}
+a{
+    font-size: var(--parrafo-1);
+    color: var(--color4);
+}
+
+.nota{
+    font-size: var(--titulo-h4);
+    color: var(--color4);
+    margin:15px 45px;
+}
+
+spam{
+    color: var(--color4);
+    font-size: var(--titulo-h4);
+}
+
+
+/*----------SECCIÓN 4----------*/
+
+
+.S4{
+    box-sizing: 3rem;
+    width: 90%;
+}
+
+.recurso1{
+    width: 100%;
+}
+
+
+/*----------SECCIÓN 5----------*/
+
+
+.S5{
+    box-sizing: 3rem;
+    width: 90%;
+}
+
+.propiedades_tablas{
+    margin: auto;
+    border-collapse: collapse;
+}
+
+tr,td{
+    border: 0.2rem solid Black;
+}
+
+.celdas3{
+    background-color: var(--color3);
+    font-size: var(--titulo-h3);
+    color: var(--color6);
+    text-align: center;
+}
+
+/*----------SECCIÓN 6----------*/
+
+
+.S6{
+    box-sizing: 3rem;
+    width: 90%;
+}
+
+.mdc{
+    color: var(--color2);
+    font-size: var(--titulo-h2);
+    text-align: center;
+}
+
+.recurso2{
+    width: 50%;
+    height: 35%;
+}
+
+
+/*----------SECCIÓN 7----------*/
+
+
+.S7{
+    box-sizing: 3rem;
+    width: 90%;
+}
+
+
+.propiedades_tablas{
+    margin: 1rem auto 1rem auto;
+    border-collapse: collapse;
+}
+
+tr,td{
+    border: 0.2rem solid Black;
+}
+
+.recurso3{
+    width: 50%;
+}
+
+.texto3{
+    font-size: var(--parrafo-2);
+    margin:3rem 0rem 5rem 0rem;
+}
+
+
+/*----------SECCIÓN 8----------*/
+
+.S8{
+    width: 90%;
+}
+

@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+    font-family: inherit;
+}
+
+html{
+    font-size: 62.5%; /* --- 10px --- */
+}
+
+/* ---- paleta de colores ---- */
+:root{
+    --color1:#296972;
+    --color2:#54B7D7;
+    --color3:#A89B3D;
+    --color4:#DCAB10;
+    --color5:#EA493F;
+    --color6:#FFF;
+}
+
+/* --- Sizes de tipografía --- */
+:root{
+    --titulo-h1: 6rem;
+    --titulo-h2: 2.6rem;
+    --titulo-h3: 2.4rem;
+    --titulo-h4: 2rem;
+    --parrafo-1: 1.8rem;
+    --parrafo-2: 2rem;
+    --parrafo-3: 4rem;
+}

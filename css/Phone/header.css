@@ -1,0 +1,17 @@
+header{
+    height: auto;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.logo{
+    text-align: center;
+    font-size: var(--titulo-h4);
+}
+
+.nav{
+    width: 100%;
+    margin: auto;
+
+    justify-content: space-between;
+}
